@@ -46,3 +46,15 @@ body {
     background-color: black;
     color: white;
 }
+.main_text_color {
+    color: #82CBAC;
+    font-size: 13px;
+    margin-top: 100px;
+}
+.main_title {
+    font-size: 50px;
+}
+    
+.main_title_2 {
+    font-size: 60px;
+}
