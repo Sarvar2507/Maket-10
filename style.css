@@ -109,3 +109,9 @@ body {
     background-color: #fff;
     display: flex;
 }
+.img {
+    margin-top: 290px;
+}
+.img img {
+    width: 110%;
+}
