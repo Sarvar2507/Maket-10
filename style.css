@@ -115,3 +115,28 @@ body {
 .img img {
     width: 110%;
 }
+.there_title {
+    margin-top: 190px;
+    margin-left: 350px;
+    font-size: 50px;
+}
+.there_text {
+    margin-top: 15px;
+    margin-left: 150px;
+    font-size: 22px;
+    width: 70%;
+    text-align: center;
+}
+.there_link {
+    margin-top: 45px;
+    margin-left: 10px;
+    border: 2px solid black;
+    color: black;
+    transition: .5s;
+    padding: 4px 60px;
+    border-radius: 30px;
+}
+.there_link:hover {
+    background-color: black;
+    color: white;
+}
